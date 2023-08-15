@@ -4,6 +4,7 @@ class User {
   email!: string;
   userName!: string;
   password!: string;
+  token!: string;
   createdAt!: Date;
   updatedAt!: Date;
 
